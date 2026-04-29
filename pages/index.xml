@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>小林直輝のホームページ</title>
-    <link>https://makre38.github.io/nkoba/</link>
+    <link>https://makre38.github.io/nkoba/pages/</link>
     <description>Recent content on 小林直輝のホームページ</description>
     <generator>Hugo</generator>
     <language>jp</language>
     <lastBuildDate>Wed, 29 Apr 2026 10:06:34 +0900</lastBuildDate>
-    <atom:link href="https://makre38.github.io/nkoba/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://makre38.github.io/nkoba/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>プロフィール</title>
       <link>https://makre38.github.io/nkoba/pages/profile/</link>
