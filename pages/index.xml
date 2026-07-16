@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>小林直輝のホームページ</title>
-    <link>https://makre38.github.io/nkoba/pages/</link>
-    <description>Recent content on 小林直輝のホームページ</description>
-    <generator>Hugo</generator>
-    <language>jp</language>
-    <lastBuildDate>Wed, 29 Apr 2026 10:06:34 +0900</lastBuildDate>
-    <atom:link href="https://makre38.github.io/nkoba/pages/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>プロフィール</title>
-      <link>https://makre38.github.io/nkoba/pages/profile/</link>
-      <pubDate>Wed, 29 Apr 2026 10:06:34 +0900</pubDate>
-      <guid>https://makre38.github.io/nkoba/pages/profile/</guid>
-      <description>&lt;h2 id=&#34;所属&#34;&gt;所属&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;筑波大学大学院 M1&lt;/li&gt;&#xA;&lt;li&gt;E-mail: nkoba ^_^ ccs.tsukuba.ac.jp (^_^ を あっとまーくに)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;分野&#34;&gt;分野&lt;/h2&gt;&#xA;&lt;h2 id=&#34;りれき&#34;&gt;りれき&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2026年3月 筑波大学 卒業&lt;/li&gt;&#xA;&lt;li&gt;2026年4月 筑波大学大学院 入院&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;趣味&#34;&gt;趣味&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;NixOS&lt;/li&gt;&#xA;&lt;li&gt;分割キーボード(40%くらいのが好み)&lt;/li&gt;&#xA;&lt;li&gt;ジョギング (ワラーチで走ってます)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>研究内容</title>
-      <link>https://makre38.github.io/nkoba/pages/research/</link>
-      <pubDate>Wed, 29 Apr 2026 10:04:30 +0900</pubDate>
-      <guid>https://makre38.github.io/nkoba/pages/research/</guid>
-      <description>&lt;p&gt;初期宇宙でのSMBHの運動,AGN円盤でのBHのmigrationなどに興味を持っています。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About me</title>
-      <link>https://makre38.github.io/nkoba/pages/aboutme/</link>
-      <pubDate>Fri, 24 Apr 2026 16:20:45 +0900</pubDate>
-      <guid>https://makre38.github.io/nkoba/pages/aboutme/</guid>
-      <description>&lt;p&gt;about me&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>小林直輝のホームページ</title>
+		<link>https://makre38.github.io/nkoba/pages/</link>
+		<description>Recent content on 小林直輝のホームページ</description>
+		<generator>Hugo</generator>
+		<language>jp</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 29 Apr 2026 10:06:34 +0900</lastBuildDate>
+		
+			<atom:link href="https://makre38.github.io/nkoba/pages/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>プロフィール</title>
+				<link>https://makre38.github.io/nkoba/pages/profile/</link>
+				<pubDate>Wed, 29 Apr 2026 10:06:34 +0900</pubDate>
+				<guid>https://makre38.github.io/nkoba/pages/profile/</guid>
+				<description>&lt;h2 id=&#34;所属&#34;&gt;所属&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;筑波大学大学院 M1&lt;/li&gt;&#xA;&lt;li&gt;E-mail: nkoba ^_^ ccs.tsukuba.ac.jp (^_^ を あっとまーくに)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;分野&#34;&gt;分野&lt;/h2&gt;&#xA;&lt;h2 id=&#34;りれき&#34;&gt;りれき&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2026年3月 筑波大学 卒業&lt;/li&gt;&#xA;&lt;li&gt;2026年4月 筑波大学大学院 入院&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;趣味&#34;&gt;趣味&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;NixOS&lt;/li&gt;&#xA;&lt;li&gt;分割キーボード(40%くらいのが好み)&lt;/li&gt;&#xA;&lt;li&gt;ジョギング (ワラーチで走ってます)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>研究内容</title>
+				<link>https://makre38.github.io/nkoba/pages/research/</link>
+				<pubDate>Wed, 29 Apr 2026 10:04:30 +0900</pubDate>
+				<guid>https://makre38.github.io/nkoba/pages/research/</guid>
+				<description>&lt;p&gt;初期宇宙でのSMBHの形成や銀河との共進化などに興味を持っています。&lt;/p&gt;&#xA;&lt;h3 id=&#34;最近の活動はこちら&#34;&gt;最近の活動はこちら&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&#x9;&#xA;&#x9;&lt;li&gt; &lt;a href=&#34;https://makre38.github.io/nkoba/my_works/9th-smbh/&#34;&gt;超巨大ブラックホール研究推進連絡会第9回ワークショップ&lt;/a&gt;&lt;/li&gt;&#xA;&#x9;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>About me</title>
+				<link>https://makre38.github.io/nkoba/pages/aboutme/</link>
+				<pubDate>Fri, 24 Apr 2026 16:20:45 +0900</pubDate>
+				<guid>https://makre38.github.io/nkoba/pages/aboutme/</guid>
+				<description>&lt;p&gt;about me&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
