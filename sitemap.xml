@@ -2,44 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://makre38.github.io/nkoba/</loc>
+    <loc>http://localhost:1313/nkoba/</loc>
+    <lastmod>2026-07-16T22:25:20+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nkoba/activities/</loc>
+    <lastmod>2026-07-16T22:25:20+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nkoba/activities/others/hugo-memo/</loc>
+    <lastmod>2026-07-16T22:25:20+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nkoba/activities/others/warachi/</loc>
     <lastmod>2026-07-16T22:12:25+09:00</lastmod>
   </url><url>
-    <loc>https://makre38.github.io/nkoba/activities/</loc>
-    <lastmod>2026-07-16T22:12:25+09:00</lastmod>
-  </url><url>
-    <loc>https://makre38.github.io/nkoba/activities/others/warachi/</loc>
-    <lastmod>2026-07-16T22:12:25+09:00</lastmod>
-  </url><url>
-    <loc>https://makre38.github.io/nkoba/pages/</loc>
+    <loc>http://localhost:1313/nkoba/pages/</loc>
     <lastmod>2026-07-16T21:50:03+09:00</lastmod>
   </url><url>
-    <loc>https://makre38.github.io/nkoba/pages/others/</loc>
+    <loc>http://localhost:1313/nkoba/pages/others/</loc>
     <lastmod>2026-07-16T21:50:03+09:00</lastmod>
   </url><url>
-    <loc>https://makre38.github.io/nkoba/pages/activities/</loc>
+    <loc>http://localhost:1313/nkoba/pages/activities/</loc>
     <lastmod>2026-07-16T21:39:21+09:00</lastmod>
   </url><url>
-    <loc>https://makre38.github.io/nkoba/pages/links/</loc>
+    <loc>http://localhost:1313/nkoba/pages/links/</loc>
     <lastmod>2026-07-16T21:09:53+09:00</lastmod>
   </url><url>
-    <loc>https://makre38.github.io/nkoba/news/</loc>
+    <loc>http://localhost:1313/nkoba/news/</loc>
     <lastmod>2026-07-16T20:55:51+09:00</lastmod>
   </url><url>
-    <loc>https://makre38.github.io/nkoba/news/news2607.01/</loc>
+    <loc>http://localhost:1313/nkoba/news/news2607.01/</loc>
     <lastmod>2026-07-16T20:55:51+09:00</lastmod>
   </url><url>
-    <loc>https://makre38.github.io/nkoba/activities/presentations/9th-smbh/</loc>
+    <loc>http://localhost:1313/nkoba/activities/presentations/9th-smbh/</loc>
     <lastmod>2026-07-16T15:59:27+09:00</lastmod>
   </url><url>
-    <loc>https://makre38.github.io/nkoba/pages/profile/</loc>
+    <loc>http://localhost:1313/nkoba/pages/profile/</loc>
     <lastmod>2026-04-29T10:06:34+09:00</lastmod>
   </url><url>
-    <loc>https://makre38.github.io/nkoba/pages/research/</loc>
+    <loc>http://localhost:1313/nkoba/pages/research/</loc>
     <lastmod>2026-04-29T10:04:30+09:00</lastmod>
   </url><url>
-    <loc>https://makre38.github.io/nkoba/categories/</loc>
+    <loc>http://localhost:1313/nkoba/categories/</loc>
   </url><url>
-    <loc>https://makre38.github.io/nkoba/tags/</loc>
+    <loc>http://localhost:1313/nkoba/tags/</loc>
   </url>
 </urlset>

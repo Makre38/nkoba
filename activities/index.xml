@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Activities on 小林直輝の情報おきば</title>
-		<link>https://makre38.github.io/nkoba/activities/</link>
+		<link>http://localhost:1313/nkoba/activities/</link>
 		<description>Recent content in Activities on 小林直輝の情報おきば</description>
 		<generator>Hugo</generator>
 		<language>jp</language>
@@ -10,21 +10,28 @@
 		
 		
 		
-			<lastBuildDate>Thu, 16 Jul 2026 22:12:25 +0900</lastBuildDate>
+			<lastBuildDate>Thu, 16 Jul 2026 22:25:20 +0900</lastBuildDate>
 		
-			<atom:link href="https://makre38.github.io/nkoba/activities/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/nkoba/activities/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>hugoの使い方メモ</title>
+				<link>http://localhost:1313/nkoba/activities/others/hugo-memo/</link>
+				<pubDate>Thu, 16 Jul 2026 22:25:20 +0900</pubDate>
+				<guid>http://localhost:1313/nkoba/activities/others/hugo-memo/</guid>
+				<description>&lt;p&gt;hugoの使い方とかのメモだよ&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>ワラーチの作り方</title>
-				<link>https://makre38.github.io/nkoba/activities/others/warachi/</link>
+				<link>http://localhost:1313/nkoba/activities/others/warachi/</link>
 				<pubDate>Thu, 16 Jul 2026 22:12:25 +0900</pubDate>
-				<guid>https://makre38.github.io/nkoba/activities/others/warachi/</guid>
+				<guid>http://localhost:1313/nkoba/activities/others/warachi/</guid>
 				<description>&lt;p&gt;ワラーチとは、履物である。&lt;/p&gt;&#xA;&lt;p&gt;裸足に近い感覚でありながら、そこらのサンダルと違って走りやすいのが特徴である。&lt;/p&gt;&#xA;&lt;p&gt;また、簡単な構造であるため自作に適している。&lt;/p&gt;&#xA;&lt;p&gt;ここでは、そんなワラーチの作り方を紹介する。&lt;/p&gt;&#xA;&lt;p&gt;~~  いつか書く ~~&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>超巨大ブラックホール研究推進連絡会第9回ワークショップ(口頭発表)</title>
-				<link>https://makre38.github.io/nkoba/activities/presentations/9th-smbh/</link>
+				<link>http://localhost:1313/nkoba/activities/presentations/9th-smbh/</link>
 				<pubDate>Thu, 16 Jul 2026 15:59:27 +0900</pubDate>
-				<guid>https://makre38.github.io/nkoba/activities/presentations/9th-smbh/</guid>
+				<guid>http://localhost:1313/nkoba/activities/presentations/9th-smbh/</guid>
 				<description>&lt;p&gt;ブラックホール研究推進連絡会第9回ワークショップ@愛媛大学 (2026 07/13 - 07/15) &lt;a href=&#34;https://sites.google.com/view/smbh-rec2026/home&#34;&gt;ワークショップwebページ&lt;/a&gt;&#xA;に参加してきました。&lt;/p&gt;&#xA;&lt;p&gt;観測の人々も多くいて、ふだんなかなか聞けない話を知れました。&#xA;XRISMの新しい結果や大規模な干渉計での結果など印象的でした。&#xA;SMBH形成やLRDの研究の今までの動向などをまとめた発表もあり、たいへん勉強になりました。&#xA;あちこちで名を聞く若手研究者の方ともお話でき、がんばるぞい!という気持が追加されました。&lt;/p&gt;&#xA;&lt;p&gt;ちなみに、プロフィールの画像はこの時撮ったもの。&lt;/p&gt;</description>
 			</item>
 	</channel>
