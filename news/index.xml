@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>News on 小林直輝の情報おきば</title>
-		<link>http://localhost:1313/nkoba/news/</link>
+		<link>https://makre38.github.io/nkoba/news/</link>
 		<description>Recent content in News on 小林直輝の情報おきば</description>
 		<generator>Hugo</generator>
 		<language>jp</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 16 Jul 2026 20:55:51 +0900</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/nkoba/news/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://makre38.github.io/nkoba/news/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>ページ構成を変えました:活動内容,links,雑記ページを作成</title>
-				<link>http://localhost:1313/nkoba/news/news2607.01/</link>
+				<link>https://makre38.github.io/nkoba/news/news2607.01/</link>
 				<pubDate>Thu, 16 Jul 2026 20:55:51 +0900</pubDate>
-				<guid>http://localhost:1313/nkoba/news/news2607.01/</guid>
+				<guid>https://makre38.github.io/nkoba/news/news2607.01/</guid>
 				<description></description>
 			</item>
 	</channel>

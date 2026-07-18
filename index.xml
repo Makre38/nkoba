@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>小林直輝の情報おきば</title>
-		<link>http://localhost:1313/nkoba/</link>
+		<link>https://makre38.github.io/nkoba/</link>
 		<description>Recent content on 小林直輝の情報おきば</description>
 		<generator>Hugo</generator>
 		<language>jp</language>
@@ -10,70 +10,63 @@
 		
 		
 		
-			<lastBuildDate>Thu, 16 Jul 2026 22:25:20 +0900</lastBuildDate>
+			<lastBuildDate>Thu, 16 Jul 2026 22:12:25 +0900</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/nkoba/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>hugoの使い方メモ</title>
-				<link>http://localhost:1313/nkoba/activities/others/hugo-memo/</link>
-				<pubDate>Thu, 16 Jul 2026 22:25:20 +0900</pubDate>
-				<guid>http://localhost:1313/nkoba/activities/others/hugo-memo/</guid>
-				<description>&lt;p&gt;hugoの使い方とかのメモだよ&lt;/p&gt;</description>
-			</item>
+			<atom:link href="https://makre38.github.io/nkoba/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>ワラーチの作り方</title>
-				<link>http://localhost:1313/nkoba/activities/others/warachi/</link>
+				<link>https://makre38.github.io/nkoba/activities/others/warachi/</link>
 				<pubDate>Thu, 16 Jul 2026 22:12:25 +0900</pubDate>
-				<guid>http://localhost:1313/nkoba/activities/others/warachi/</guid>
+				<guid>https://makre38.github.io/nkoba/activities/others/warachi/</guid>
 				<description>&lt;p&gt;ワラーチとは、履物である。&lt;/p&gt;&#xA;&lt;p&gt;裸足に近い感覚でありながら、そこらのサンダルと違って走りやすいのが特徴である。&lt;/p&gt;&#xA;&lt;p&gt;また、簡単な構造であるため自作に適している。&lt;/p&gt;&#xA;&lt;p&gt;ここでは、そんなワラーチの作り方を紹介する。&lt;/p&gt;&#xA;&lt;p&gt;~~  いつか書く ~~&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>雑記</title>
-				<link>http://localhost:1313/nkoba/pages/others/</link>
+				<link>https://makre38.github.io/nkoba/pages/others/</link>
 				<pubDate>Thu, 16 Jul 2026 21:50:03 +0900</pubDate>
-				<guid>http://localhost:1313/nkoba/pages/others/</guid>
-				<description>&lt;p&gt;ノートとかおくかも.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&#x9;&#xA;&#x9;&lt;li&gt; &lt;a href=&#34;http://localhost:1313/nkoba/activities/others/hugo-memo/&#34;&gt;hugoの使い方メモ&lt;/a&gt;&lt;/li&gt;&#xA;&#x9;&#xA;&#x9;&lt;li&gt; &lt;a href=&#34;http://localhost:1313/nkoba/activities/others/warachi/&#34;&gt;ワラーチの作り方&lt;/a&gt;&lt;/li&gt;&#xA;&#x9;&#xA;&lt;/ul&gt;</description>
+				<guid>https://makre38.github.io/nkoba/pages/others/</guid>
+				<description>&lt;p&gt;ノートとかおくかも.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&#x9;&#xA;&#x9;&lt;li&gt; &lt;a href=&#34;https://makre38.github.io/nkoba/activities/others/warachi/&#34;&gt;ワラーチの作り方&lt;/a&gt;&lt;/li&gt;&#xA;&#x9;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
 				<title>活動記録</title>
-				<link>http://localhost:1313/nkoba/pages/activities/</link>
+				<link>https://makre38.github.io/nkoba/pages/activities/</link>
 				<pubDate>Thu, 16 Jul 2026 21:39:21 +0900</pubDate>
-				<guid>http://localhost:1313/nkoba/pages/activities/</guid>
-				<description>&lt;p&gt;発表実績等&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&#x9;&#xA;&#x9;&lt;li&gt; &lt;a href=&#34;http://localhost:1313/nkoba/activities/presentations/9th-smbh/&#34;&gt;超巨大ブラックホール研究推進連絡会第9回ワークショップ(口頭発表)&lt;/a&gt;&lt;/li&gt;&#xA;&#x9;&#xA;&lt;/ul&gt;</description>
+				<guid>https://makre38.github.io/nkoba/pages/activities/</guid>
+				<description>&lt;p&gt;発表実績等&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&#x9;&#xA;&#x9;&lt;li&gt; &lt;a href=&#34;https://makre38.github.io/nkoba/activities/presentations/9th-smbh/&#34;&gt;超巨大ブラックホール研究推進連絡会第9回ワークショップ(口頭発表)&lt;/a&gt;&lt;/li&gt;&#xA;&#x9;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
 				<title>Links</title>
-				<link>http://localhost:1313/nkoba/pages/links/</link>
+				<link>https://makre38.github.io/nkoba/pages/links/</link>
 				<pubDate>Thu, 16 Jul 2026 21:09:53 +0900</pubDate>
-				<guid>http://localhost:1313/nkoba/pages/links/</guid>
+				<guid>https://makre38.github.io/nkoba/pages/links/</guid>
 				<description>&lt;p&gt;&lt;a href=&#34;https://www2.ccs.tsukuba.ac.jp/Astro/home/ja&#34;&gt;筑波大学宇宙理論研究室&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>ページ構成を変えました:活動内容,links,雑記ページを作成</title>
-				<link>http://localhost:1313/nkoba/news/news2607.01/</link>
+				<link>https://makre38.github.io/nkoba/news/news2607.01/</link>
 				<pubDate>Thu, 16 Jul 2026 20:55:51 +0900</pubDate>
-				<guid>http://localhost:1313/nkoba/news/news2607.01/</guid>
+				<guid>https://makre38.github.io/nkoba/news/news2607.01/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>超巨大ブラックホール研究推進連絡会第9回ワークショップ(口頭発表)</title>
-				<link>http://localhost:1313/nkoba/activities/presentations/9th-smbh/</link>
+				<link>https://makre38.github.io/nkoba/activities/presentations/9th-smbh/</link>
 				<pubDate>Thu, 16 Jul 2026 15:59:27 +0900</pubDate>
-				<guid>http://localhost:1313/nkoba/activities/presentations/9th-smbh/</guid>
+				<guid>https://makre38.github.io/nkoba/activities/presentations/9th-smbh/</guid>
 				<description>&lt;p&gt;ブラックホール研究推進連絡会第9回ワークショップ@愛媛大学 (2026 07/13 - 07/15) &lt;a href=&#34;https://sites.google.com/view/smbh-rec2026/home&#34;&gt;ワークショップwebページ&lt;/a&gt;&#xA;に参加してきました。&lt;/p&gt;&#xA;&lt;p&gt;観測の人々も多くいて、ふだんなかなか聞けない話を知れました。&#xA;XRISMの新しい結果や大規模な干渉計での結果など印象的でした。&#xA;SMBH形成やLRDの研究の今までの動向などをまとめた発表もあり、たいへん勉強になりました。&#xA;あちこちで名を聞く若手研究者の方ともお話でき、がんばるぞい!という気持が追加されました。&lt;/p&gt;&#xA;&lt;p&gt;ちなみに、プロフィールの画像はこの時撮ったもの。&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>プロフィール</title>
-				<link>http://localhost:1313/nkoba/pages/profile/</link>
+				<link>https://makre38.github.io/nkoba/pages/profile/</link>
 				<pubDate>Wed, 29 Apr 2026 10:06:34 +0900</pubDate>
-				<guid>http://localhost:1313/nkoba/pages/profile/</guid>
-				<description>&lt;h2 id=&#34;所属&#34;&gt;所属&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;筑波大学大学院 宇宙理論研究室 矢島グループ M1&lt;/li&gt;&#xA;&lt;li&gt;E-mail: nkoba ^_^ ccs.tsukuba.ac.jp (^_^ を あっとまーくに)&#xA;&lt;figure class=&#34;right&#34;&gt;&lt;img src=&#34;http://localhost:1313/nkoba/fig/fig-of-nkoba.jpg&#34; height=&#34;300&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;分野&#34;&gt;分野&lt;/h2&gt;&#xA;&lt;p&gt;初期宇宙の超巨大ブラックホール形成や銀河との共進化とか&lt;/p&gt;&#xA;&lt;h2 id=&#34;りれき&#34;&gt;りれき&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2026年3月 筑波大学 卒業&lt;/li&gt;&#xA;&lt;li&gt;2026年4月 筑波大学大学院 入院&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;趣味&#34;&gt;趣味&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;NixOS&lt;/li&gt;&#xA;&lt;li&gt;分割キーボード(40%くらいのが好み)&lt;/li&gt;&#xA;&lt;li&gt;ジョギング (ワラーチで走っている)&lt;/li&gt;&#xA;&lt;li&gt;最近、和服を気に入っている&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+				<guid>https://makre38.github.io/nkoba/pages/profile/</guid>
+				<description>&lt;h2 id=&#34;所属&#34;&gt;所属&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;筑波大学大学院 宇宙理論研究室 矢島グループ M1&lt;/li&gt;&#xA;&lt;li&gt;E-mail: nkoba ^_^ ccs.tsukuba.ac.jp (^_^ を あっとまーくに)&#xA;&lt;figure class=&#34;right&#34;&gt;&lt;img src=&#34;https://makre38.github.io/nkoba/fig/fig-of-nkoba.jpg&#34; height=&#34;300&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;分野&#34;&gt;分野&lt;/h2&gt;&#xA;&lt;p&gt;初期宇宙の超巨大ブラックホール形成や銀河との共進化とか&lt;/p&gt;&#xA;&lt;h2 id=&#34;りれき&#34;&gt;りれき&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2026年3月 筑波大学 卒業&lt;/li&gt;&#xA;&lt;li&gt;2026年4月 筑波大学大学院 入院&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;趣味&#34;&gt;趣味&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;NixOS&lt;/li&gt;&#xA;&lt;li&gt;分割キーボード(40%くらいのが好み)&lt;/li&gt;&#xA;&lt;li&gt;ジョギング (ワラーチで走っている)&lt;/li&gt;&#xA;&lt;li&gt;最近、和服を気に入っている&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
 				<title>研究内容</title>
-				<link>http://localhost:1313/nkoba/pages/research/</link>
+				<link>https://makre38.github.io/nkoba/pages/research/</link>
 				<pubDate>Wed, 29 Apr 2026 10:04:30 +0900</pubDate>
-				<guid>http://localhost:1313/nkoba/pages/research/</guid>
+				<guid>https://makre38.github.io/nkoba/pages/research/</guid>
 				<description>&lt;p&gt;初期宇宙でのSMBHの形成や銀河との共進化などに興味を持っています。&lt;/p&gt;&#xA;&lt;p&gt;手計算でいける所までやってみたいなあ。&lt;/p&gt;</description>
 			</item>
 	</channel>

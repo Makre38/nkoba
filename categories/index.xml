@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on 小林直輝の情報おきば</title>
-		<link>http://localhost:1313/nkoba/categories/</link>
+		<link>https://makre38.github.io/nkoba/categories/</link>
 		<description>Recent content in Categories on 小林直輝の情報おきば</description>
 		<generator>Hugo</generator>
 		<language>jp</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/nkoba/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://makre38.github.io/nkoba/categories/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
